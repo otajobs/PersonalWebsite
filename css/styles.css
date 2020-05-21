@@ -10084,6 +10084,7 @@ h3 {
   }
 }
 .masthead {
+  height: 100vh;
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
   background-color: #0F0F0FFF;
